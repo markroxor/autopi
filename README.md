@@ -1,6 +1,6 @@
 # autopi
 
-Raspberry pi supervisor scripts to work with my home automation system and associated [flutter app](https://github.com/markroxor/autopi_flutter).
+A Raspberry pi based iot home automation system and associated [flutter app](https://github.com/markroxor/autopi_flutter).
 
 An ugly preview goes below -  
 ![](preview.jpg)
